@@ -1,0 +1,17 @@
+.fish-item {
+    border: 1px black solid;
+    margin: .5em;
+    box-shadow: black 0px 0px 4px;
+}
+.fish-item:hover {
+    box-shadow: black 0px 0px 15px;
+}
+.fish-img {
+    max-height: 100px;
+    max-width: 100px;
+}
+.fish-list {
+    display: flex;
+    flex-direction: row;
+    width: 400px;
+}

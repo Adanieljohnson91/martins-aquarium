@@ -1,0 +1,25 @@
+@import './fishList.css';
+@import './quotes.css';
+@import './banner.css';
+@import './tips.css';
+@import './locations.css';
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.bottom-content {
+    display: flex;
+    flex-direction: row;
+    width: 1600px;
+}
+.left-side-rows{
+    display: flex;
+    flex-direction: column;
+    flex: 3;
+}
+body {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
