@@ -1,0 +1,9 @@
+.quotes {
+    display: flex;
+    background-color: aqua;
+    color: orange;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    width: initial;
+    padding: 2em;
+}
