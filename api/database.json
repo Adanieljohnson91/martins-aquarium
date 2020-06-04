@@ -1,0 +1,156 @@
+{
+  "fish": [
+    {
+      "image": "https://img.etimg.com/thumb/msid-72258617,width-643,imgsize-797254,resizemode-4/nemo-clownfish_istock.jpg",
+      "species": "Clown",
+      "length": 3,
+      "food": "Dry Food",
+      "harvested": "Bahamas",
+      "petName": "Blue"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/y6tdGVTgmm4/maxresdefault.jpg",
+      "species": "Parrot",
+      "length": 3,
+      "food": "Frozen Food",
+      "harvested": "Galapagos Island",
+      "petName": "Green"
+    },
+    {
+      "image": "https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1555293705/shape/mentalfloss/blobfish_0.jpg",
+      "species": "HeroFIsh",
+      "length": 3,
+      "food": "Freeze Dried",
+      "harvested": "Atlantic Ocean",
+      "petName": "Yellow"
+    },
+    {
+      "image": "http://www.sutherlandsafaris.com/content/img/showcase/tiger-fishing/tiger-fishing-3.jpg",
+      "species": "Tiger Fish",
+      "length": 5,
+      "food": "Live Food",
+      "harvested": "Black Sea",
+      "petName": "Red"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1528697350967-73ea8fd73685?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+      "species": "Stripe",
+      "length": 5,
+      "food": "Greens",
+      "harvested": "Off the Coast",
+      "petName": "Purple"
+    },
+    {
+      "image": "https://img.etimg.com/thumb/msid-72258617,width-643,imgsize-797254,resizemode-4/nemo-clownfish_istock.jpg",
+      "species": "Clown",
+      "length": 23,
+      "food": "Dry Food",
+      "harvested": "Bahamas",
+      "petName": "Blue"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/y6tdGVTgmm4/maxresdefault.jpg",
+      "species": "Parrot",
+      "length": 5,
+      "food": "Frozen Food",
+      "harvested": "Galapagos Island",
+      "petName": "Green"
+    },
+    {
+      "image": "https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1555293705/shape/mentalfloss/blobfish_0.jpg",
+      "species": "HeroFIsh",
+      "length": 5,
+      "food": "Freeze Dried",
+      "harvested": "Atlantic Ocean",
+      "petName": "Yellow"
+    },
+    {
+      "image": "https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1555293705/shape/mentalfloss/blobfish_0.jpg",
+      "species": "HeroFIsh",
+      "length": 1,
+      "food": "Freeze Dried",
+      "harvested": "Atlantic Ocean",
+      "petName": "Yellow"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/y6tdGVTgmm4/maxresdefault.jpg",
+      "species": "Parrot",
+      "length": 1,
+      "food": "Frozen Food",
+      "harvested": "Galapagos Island",
+      "petName": "Green"
+    }
+  ],
+  "locations": [
+    {
+      "name": "bahamas",
+      "image": "https://www.sandals.com/blog/content/images/2020/02/Sandals-Royal-Bahamian-Ocean-Hammock.jpg",
+      "details": "The Beautiful Bahamas"
+    },
+    {
+      "name": "Guadalupe Island",
+      "image": "https://nautilusliveaboards.com/wp-content/uploads/2020/04/header.jpg",
+      "details": "Shark Central"
+    },
+    {
+      "name": "Antartica",
+      "image": "https://d1hbkx7j13ujdz.cloudfront.net/wp-content/uploads/2018/08/Lets-Explore-the-Antarctic-Ocean-1024x683.jpg",
+      "details": "Burr Big Drip"
+    },
+    {
+      "name": "Indian Ocean",
+      "image": "https://ttgasia.2017.ttgasia.com/wp-content/uploads/sites/2/2019/08/underwater_waterfall_Mauritius.jpg",
+      "details": "Anicant Trade"
+    },
+    {
+      "name": "Red Sea",
+      "image": "https://blog.radissonblu.com/wp-content/uploads/2019/02/Red-Sea-Featured-Image.jpg",
+      "details": "And he was laying in an overflowing bathtub of red water"
+    },
+    {
+      "name": "Amut River",
+      "image": "https://www.internationalrivers.org/sites/default/files/styles/600-height/public/images/resource/colin_carpenter/wrr_amur.jpg?itok=zckubcVI",
+      "details": "Come raft comrad"
+    }
+  ],
+  "tips": [
+    {
+      "title": "Dont Eat the Fish",
+      "description": "awesome description of tips"
+    },
+    {
+      "title": "Dont Eat the Fish",
+      "description": "awesome description of tips"
+    },
+    {
+      "title": "Dont Eat the Fish",
+      "description": "awesome description of tips"
+    },
+    {
+      "title": "Dont Eat the Fish",
+      "description": "awesome description of tips"
+    },
+    {
+      "title": "Dont Eat the Fish",
+      "description": "awesome description of tips"
+    }
+  ],
+  "quotes": [
+    {
+      "quote": "There's a fine line between fishing and just standing on the shore like an idiot.",
+      "author": "Unknown"
+    },
+    {
+      "quote": "The fishing was good; it was the catching that was bad.",
+      "author": "Unknown"
+    },
+    {
+      "quote": "Fishing is much more than fish. It is the great occasion when we may return to the fine simplicity of our forefathers.",
+      "author": "Unknown"
+    },
+    {
+      "quote": "Don't tell fish stories where the people know you; but particularly, don't tell them where they know the fish.",
+      "author": "Unknown"
+    }
+  ]
+}

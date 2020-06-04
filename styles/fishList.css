@@ -13,5 +13,7 @@
 .fish-list {
     display: flex;
     flex-direction: row;
-    width: 400px;
+    flex-wrap: wrap;
+    width: auto;
+    justify-content: center;
 }

@@ -1,8 +1,13 @@
 .tips {
     display: flex;
     flex-direction: column;
-    border: black 1px dotted;
+    border: black 1px solid;
     flex: 1;
     text-align: center;
-   
+}
+.tip {
+    border: solid 1px black;
+    background-color: blanchedalmond;
+    margin: 1em;
+    box-shadow: red 0px 0px 4px;
 }

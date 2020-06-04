@@ -1,4 +1,7 @@
 const quoteCardGenerator = ({quote, author}) =>{
-    return `<h1>${quote}</h1>
-    <p>-<small>${author}</small></p>`
+    return `
+    <div class="quote-box">
+    <h1>${quote}</h1>
+    <p>-<small>${author}</small></p>
+    </div>`
 }

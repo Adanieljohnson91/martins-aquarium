@@ -1,7 +1,8 @@
-appendFish(fishData);
-appendLocation(locationData);
-appendTips(tipData);
-quoteList(quoteData);
+
+sortFish();
+appendLocation();
+appendTips();
+quoteList();
 
 
 
