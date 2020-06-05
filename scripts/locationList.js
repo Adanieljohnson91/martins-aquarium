@@ -1,7 +1,11 @@
-const appendLocation = (locationData) =>{
-    for(let i = 0; i < locationData.length; i++){
-        let currentLocationCard = cardLocationGenerator(locationData[i]);
-        document.getElementById('location-id').innerHTML += currentLocationCard;
-    }
+const appendLocation = () =>{
+    getlocation().then(()=>{
+        for(let i = 0; i < locationArr.length; i++){
+                let currentLocationCard = cardLocationGenerator(locationArr[i]);
+                document.getElementById('location-id').innerHTML += currentLocationCard;
+            }
+
+    })
+    
 
 }
