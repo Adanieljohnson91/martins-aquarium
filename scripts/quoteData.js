@@ -1,3 +1,4 @@
+
 let quoteArr = []
 
 const getQuote = () => {
@@ -8,5 +9,11 @@ const getQuote = () => {
                 console.table(quotes)
                quoteArr = quotes
             }
-        )
+         )
+        //.then(()=>{
+        //     document.getElementsByClassName('toggle-quotes').addEventListener('click', e=>{
+        //         e.preventDefault();
+        //         document.getElementById('quote-id').classList.toggle('hidden')
+        //     })
+        // })
 }
