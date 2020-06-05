@@ -71,3 +71,6 @@ body {
       height: 300px;
       width: auto;
   }
+  .hidden {
+    display: none;
+  }

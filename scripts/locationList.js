@@ -4,6 +4,11 @@ const appendLocation = () =>{
                 let currentLocationCard = cardLocationGenerator(locationArr[i]);
                 document.getElementById('location-id').innerHTML += currentLocationCard;
             }
+            let toggle = document.getElementById('toggle-locations')
+        console.log(toggle, "toggle")
+        toggle.addEventListener('click', ()=>{
+            document.getElementById('location-id').classList.toggle('hidden')
+        })
 
     })
     

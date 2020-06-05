@@ -60,10 +60,10 @@ const sortFish = () =>{
     )
     
 }
-const appendFish = (fish) =>{
+const appendFish = (fishes) =>{
     document.getElementById('tag-id').innerHTML = "";
-for(let i = 0; i < fish.length; i++){
-        let currentCard = cardGenerator(fish[i]);
+for(let i = 0; i < fishes.length; i++){
+        let currentCard = cardGenerator(fishes[i]);
         document.getElementById('tag-id').innerHTML += currentCard;
     }
 }

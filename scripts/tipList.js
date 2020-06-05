@@ -7,6 +7,11 @@ const appendTips = () =>{
                     let tipCard = cardTipGenerator(tip[i]);
                     document.getElementById('tip-id').innerHTML += tipCard;
                 }
+                let toggle = document.getElementById('toggle-tips')
+        console.log(toggle, "toggle")
+        toggle.addEventListener('click', ()=>{
+            document.getElementById('tip-id').classList.toggle('hidden')
+        })
             
             }
         )
